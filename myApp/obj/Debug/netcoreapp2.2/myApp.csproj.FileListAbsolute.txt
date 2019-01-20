@@ -9,3 +9,14 @@ D:\UI class\Projects\myApp\obj\Debug\netcoreapp2.2\myApp.AssemblyInfoInputs.cach
 D:\UI class\Projects\myApp\obj\Debug\netcoreapp2.2\myApp.AssemblyInfo.cs
 D:\UI class\Projects\myApp\obj\Debug\netcoreapp2.2\myApp.dll
 D:\UI class\Projects\myApp\obj\Debug\netcoreapp2.2\myApp.pdb
+D:\UI class\Projects\C-\myApp\bin\Debug\netcoreapp2.2\myApp.deps.json
+D:\UI class\Projects\C-\myApp\bin\Debug\netcoreapp2.2\myApp.runtimeconfig.json
+D:\UI class\Projects\C-\myApp\bin\Debug\netcoreapp2.2\myApp.runtimeconfig.dev.json
+D:\UI class\Projects\C-\myApp\bin\Debug\netcoreapp2.2\myApp.dll
+D:\UI class\Projects\C-\myApp\bin\Debug\netcoreapp2.2\myApp.pdb
+D:\UI class\Projects\C-\myApp\obj\Debug\netcoreapp2.2\myApp.csprojAssemblyReference.cache
+D:\UI class\Projects\C-\myApp\obj\Debug\netcoreapp2.2\myApp.csproj.CoreCompileInputs.cache
+D:\UI class\Projects\C-\myApp\obj\Debug\netcoreapp2.2\myApp.AssemblyInfoInputs.cache
+D:\UI class\Projects\C-\myApp\obj\Debug\netcoreapp2.2\myApp.AssemblyInfo.cs
+D:\UI class\Projects\C-\myApp\obj\Debug\netcoreapp2.2\myApp.dll
+D:\UI class\Projects\C-\myApp\obj\Debug\netcoreapp2.2\myApp.pdb
