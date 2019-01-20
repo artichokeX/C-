@@ -18,13 +18,13 @@ namespace myApp
             System.Console.WriteLine(formattedNames);
             System.Console.WriteLine(myFullName);
 
-            var text = "Hello John\n Look into the following PATHS\n d:\\UI Class\n d:\\UI Class\\Projects\n d:\\UI Class\\Projects\\myApp";
+            var text = "Hello John\n Look into the following PATHS\n d:\\UI Class\n d:\\UI Class\\Projects\n d:\\UI Class\\Projects\\c-\\myApp";
             System.Console.WriteLine(text);            
         
             var altText = @"Hello John Look into the following PATHS
         d:\UI Class 
         d:\UI Class\Projects                
-        d:\UI Class\Projects\myApp"; //Much smoother and fluid using a verbatum string
+        d:\UI Class\Projects\c-\myApp"; //Much smoother and fluid using a verbatum string
             System.Console.WriteLine(altText);
 
         }
